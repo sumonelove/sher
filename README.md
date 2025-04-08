@@ -1,2 +1,2 @@
 this repo only contains sher o shayari...
-laguage: Hindi,Urdu
+language: Hindi,Urdu
